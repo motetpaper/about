@@ -13,16 +13,36 @@
   <a href="/">home</a> &middot;
   <a href="/privacy">privacy</a> &middot;
   <a href="/terms">terms</a> &middot;
+  <br/>
+  MOTETPAPER &copy; 2025
 </div>
 
 {{ content }}
 
 <style type="text/css">
+
+body {
+  font-size: 35pt;
+  font-family: "ptserif";
+}
+
 #top {
   width: 99%;
   position: absolute;
   top: 0;
   left: 0;
+}
+
+@media (max-width: 350px) {
+  body {
+    font-size: 15pt;
+  }
+}
+
+@font-face {
+  font-family: "ptserif";
+  src:
+    url("/fonts/PTSerif-Regular.ttf") format("truetype"),
 }
 </style>
 </body>
