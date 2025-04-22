@@ -17,7 +17,9 @@
 These Terms of Service (”Terms”) describe our commitments to you, and your rights and responsibilities when using our services.
 
 
-Please read them carefully and reach out to us if you have any questions.** If you don’t agree to these Terms, don’t use our services.**
+Please read them carefully and reach out to us if you have any questions.
+
+**If you don’t agree to these Terms, don’t use our services.**
 
 
 If you are a user in countries located in the European Economic Area, Switzerland, or the United Kingdom (“European User”), some special terms apply to you as mentioned below.
