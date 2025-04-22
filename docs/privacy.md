@@ -6,11 +6,10 @@
 *Last Updated: April 21, 2025*
 
 
-> [!IMPORTANT]
-> **MOTETPAPER is operated by a non-trader.** MOTETPAPER provides all products and services to every country and/or economic zone for free, except where prohibited by law.
+> **NOTE: MOTETPAPER is operated by a non-trader.** MOTETPAPER provides all products and services to every country and/or economic zone for free, except where prohibited by law.
 
-> [!IMPORTANT]
-> MOTETPAPER collects aggregate data for short-term analysis and uses that non-personally identifying information to make design decisions. There are no user accounts.
+
+> **NOTE: MOTETPAPER collects aggregate data** for short-term analysis and uses that non-personally identifying information to make design decisions. There are no user accounts.
 
 
 # Your privacy

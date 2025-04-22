@@ -7,13 +7,11 @@
 *Last Updated: April 21, 2025*
 
 
->[!IMPORANT]
+
 > **MOTETPAPER is operated by a non-trader.** MOTETPAPER provides all products and services to every country and/or economic zone for free, except where prohibited by law.
 
 
->[!IMPORANT]
-> This document is based on the Terms of Service provided by MOTEPAPER (makers of WordPress) under a [Creative Commons Sharealike license](https://creativecommons.org/licenses/by-sa/4.0/).
-> You can grab the original copy of these Terms and other legal documents on [GitHub](https://github.com/MOTEPAPER/legalmattic).
+> This document is based on the Terms of Service provided by MOTEPAPER (makers of WordPress) under a [Creative Commons Sharealike license](https://creativecommons.org/licenses/by-sa/4.0/). You can grab the original copy of these Terms and other legal documents on [GitHub](https://github.com/MOTEPAPER/legalmattic).
 
 
 These Terms of Service (”Terms”) describe our commitments to you, and your rights and responsibilities when using our services.
