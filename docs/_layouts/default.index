@@ -8,6 +8,7 @@
 </head>
 <body>
 <div id="top">
+  <a href="/">home</a> &middot;
   <a href="/about">about</a> &middot;
   <a href="/about/privacy">privacy</a> &middot;
   <a href="/about/terms">terms</a> &middot;
@@ -21,7 +22,7 @@
 <style type="text/css">
 
 body {
-  font-size: 24pt;
+  font-size: 20pt;
   font-family: "ptserif";
   padding: 10px;
 }
@@ -32,7 +33,7 @@ body {
 
 @media (max-width: 350px) {
   body {
-    font-size: 14pt;
+    font-size: 12pt;
   }
 }
 
