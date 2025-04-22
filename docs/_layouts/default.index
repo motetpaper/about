@@ -1,0 +1,48 @@
+---
+---
+<!doctype html>
+<html>
+<head>
+  {% include ga.html %}
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title></title>
+</head>
+<body>
+<div id="top">
+  <a href="/about">about</a> &middot;
+  <a href="/about/privacy">privacy</a> &middot;
+  <a href="/about/terms">terms</a> &middot;
+  MOTETPAPER &copy; 2025
+</div>
+
+<p>
+{{ content }}
+</p>
+
+<style type="text/css">
+
+body {
+  font-size: 35pt;
+  font-family: "ptserif";
+  padding: 10px;
+}
+
+#top {
+  width: 99%;
+}
+
+@media (max-width: 350px) {
+  body {
+    font-size: 15pt;
+  }
+}
+
+@font-face {
+  font-family: "ptserif";
+  src:
+    url("/fonts/PTSerif-Regular.ttf") format("truetype"),
+}
+</style>
+</body>
+</html>
